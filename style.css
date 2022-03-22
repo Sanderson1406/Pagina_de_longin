@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;300&family=Montserrat:wght@300&display=swap');
+
+body {
+  background-color: #b1bf78;
+  font-family: 'Inter', sans-serif;font-family: 'Montserrat', sans-serif;
+}
+
+div[id="all"] {
+  background-color: #efefef;
+  border-radius: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 120px;
+}
+
+h2[id="tittle"] {
+  text-align: center;
+  font-size: 210%;
+} 
+h4[id="info"] {
+  text-align: center;
+}
+div[id="mail"] {
+  background-color: #b1bf78;
+  text-align: center;
+  border-radius: 30px;
+  margin: 20px;
+}
+div[id="pin"] {
+  background-color: #b1bf78;
+  text-align: center;
+  border-radius: 30px;
+  margin: 20px;
+}
+input {
+  border: none;
+  height: 30px;
+  margin-bottom: 9px;
+  margin-top: -3px;
+  border-radius: 22px;
+  outline: none;
+  box-sizing: border-box;
+  padding: 0 18px;
+  border-left: 500%;
+}
+button {
+  background-color: #d1d1d1;
+  border: none;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 17px;
+  margin-left: 38%;
+  margin-bottom: 5%;
+  border-radius: 30px;
+}
+p {
+  margin: 5%;
+}
+button[id="cad"] {
+  margin-top: 20px;
+  margin-left: 142px;
+}
+button[id="ent"] {
+  margin-top: 5px;
+}
+p[id="for"] {
+  text-align: center;
+  font-size: 15px;
+  margin-top: -5px;
+}
